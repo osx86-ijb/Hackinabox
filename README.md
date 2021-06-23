@@ -73,7 +73,7 @@ This guide is for the computer user who would like to run macOS inside of a VM o
 - 7) **(It will then prompt you around the same time to confirm that you want to Format the drive, make sure to agree to such!)**
 - 8) [After it's finished, you're going to click on the clickable text that says "Flash"](https://i.ibb.co/wBd6p1m/03.png)
 - 9) [In the page that loads afterwards, scroll down to the green text box that's labeled "Unraid OS"](https://i.ibb.co/fQjQLQN/04.png)
-- 10) Inside of the green Unraid OS text entry box field you will see `apend initrd=/bzroot`. We're going to change that to `append pcie_acs_override=downstream,multifunction video=efifb:off initrd=/bzroot`[Like In this Image](https://i.ibb.co/JzJhxv8/05.png)
+- 10) Inside of the green Unraid OS text entry box field you will see `apend initrd=/bzroot`. We're going to change that to `append pcie_acs_override=downstream,multifunction video=efifb:off initrd=/bzroot` [Like In this Image.](https://i.ibb.co/JzJhxv8/05.png)
 - 11) [Scroll down to the bottom of the page and click the "APPLY" button](https://i.ibb.co/wwBTKKD/06.png)
 - 12) [Click the button called "MAIN" at the top, and when that page loads, scroll down to the bottom, and click on the REBOOT button](https://i.ibb.co/TPP03Vw/07.png)
 - 13) [Once you're booted back up into your Unraid Server OS from your Unraid Server OS USB Key, click on "TOOLS", and then "System Devices"](https://i.ibb.co/wcBNDqk/08.png)
