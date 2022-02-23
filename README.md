@@ -18,7 +18,7 @@ This guide is for the AMD motherboard/cpu user who would like to run macOS from 
 - [@Pavo-IM](https://www.github.com/Pavo-IM)
 - [@osx86-ijb](https://www.github.com/osx86-ijb)
 - [@MattsCreative](https://twitter.com/MattsCreative1)
-- [@MattsCreative](http://www.youtube.com/channel/UCzoVL1aVjec7YKPeG59xKFg)
+- [@MattsCreative YT](http://www.youtube.com/channel/UCzoVL1aVjec7YKPeG59xKFg)
 
 ## Appendix
 
