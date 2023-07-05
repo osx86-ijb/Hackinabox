@@ -1,18 +1,9 @@
 
-# Hackinabox
-
-## MacOS VM installation using Unraid as host OS
-
-### This guide is for the computer user who would like to run macOS 12 Monterey (or newer) as a VM from within Unraid Server OS.
-
-### There are growing reasons for why someone would want to do so, for example:
-
--  When running macOS bare metal on an AMD cpu, a user is required to utilize patches made by AMD-OSX. Hackinabox abrogrates the need to use these patches.
--  When running macOS on an AMD cpu, a user has to use amdfriend to patch binaries for certain apps to run. Hackinabox mitigates this requirement.
--  Full performance/utilization of supported GPU passed through to VM.
--  Ethernet works OOB via setting up VirtIO networking device in VM settings, (no need to passthrough physical Ethernet controller).
--  No hassle updating.
--  macOS 13 Ventura compatibility
+![HackinaboxLogo](https://i.ibb.co/vL2sTJF/Hackinabox-Github-Logo.png)
+  
+<p align="center">
+MacOS VM installation using Unraid as host OS
+</p>
 
 ## Acknowledgements
 
@@ -30,6 +21,17 @@
 ## DISCLAIMER
 
 ##### THIS INFORMATION/RESEARCH HAS BEEN SHARED PURELY FOR EXPERIMENTAL AND RESEARCH PURPOSES. IT IS IN NO WAY MEANT TO PROMOTE THE CIRCUMVENTION OF ANYTHING THAT BELONGS TO AND/OR ANYTHING THAT IS THE CREATION/PRIVATE PROPERTY OF ANY CORPORATE ENTITY. THE INFORMATION THAT IS DOCUMENTED AND TRANSCRIBED HERE IS PURELY FOR EDUCATIONAL PURPOSES, AND PROOF OF CONCEPT. SHOULD YOU (OR ANYONE ELSE) CHOOSE TO UTILIZE THE INFORMATION THAT YOU'VE OBTAINED FROM THIS REPOSITORY AND THAT IS WRITTEN HERE IN ANY WAY, KNOW THAT THIS DISCLAIMER SERVES AS A LEGAL PROTECTION TO US AS THE CODE REPOSITORY CREATORS/MAINTAINERS, AND THAT WE ABSOLVE OURSELVES AS SUCH FROM ANY AND ALL RESPONSIBILITIES OR SITUATIONS THAT MIGHT ARISE FROM YOUR CHOOSING TO HAVE UTILIZED ANYTHING DISCUSSED IN THIS CODE REPOSITORY (LEGAL OR OTHERWISE).
+
+### This guide is for the computer user who would like to run macOS 12 Monterey (or newer) as a VM from within Unraid Server OS.
+
+#### There are growing reasons for why someone would want to do so, for example:
+
+-  When running macOS bare metal on an AMD cpu, a user is required to utilize patches made by AMD-OSX. Hackinabox abrogrates the need to use these patches.
+-  When running macOS on an AMD cpu, a user has to use amdfriend to patch binaries for certain apps to run. Hackinabox mitigates this requirement.
+-  Full performance/utilization of supported GPU passed through to VM.
+-  Ethernet works OOB via setting up VirtIO networking device in VM settings, (no need to passthrough physical Ethernet controller).
+-  No hassle updating.
+-  macOS 13 Ventura compatibility
 
 
 #### Repository Hit Counter
