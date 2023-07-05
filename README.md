@@ -1,6 +1,5 @@
 
-![HackinaboxLogo](https://i.ibb.co/vL2sTJF/Hackinabox-Github-Logo.png)
-  
+![HackinaboxLogo](https://i.ibb.co/vL2sTJF/Hackinabox-Github-Logo.png)  
 <p align="center">
 MacOS VM installation using Unraid as host OS
 </p>
@@ -32,6 +31,7 @@ MacOS VM installation using Unraid as host OS
 -  Ethernet works OOB via setting up VirtIO networking device in VM settings, (no need to passthrough physical Ethernet controller).
 -  No hassle updating.
 -  macOS 13 Ventura compatibility
+-  macOS 14 Sonoma Beta compatibility
 
 
 #### Repository Hit Counter
