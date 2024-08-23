@@ -18,7 +18,6 @@ __MacOS VM installation using Unraid as host OS__
 
 - [@Pavo-IM](https://www.github.com/Pavo-IM) (Creator of original Repository / Code contributor / README.md maintainer)
 - [@osx86-ijb](https://www.github.com/osx86-ijb) (Creator of modern README.md / Code contributor / README.md maintainer)
-- [@MattsCreative](https://www.github.com/RyzenDew) (Code contributor / README.md contributer)
 
 ## LEGAL DISCLAIMER
   
