@@ -19,22 +19,23 @@ __MacOS VM installation using Unraid as host OS__
 - [@Pavo-IM](https://www.github.com/Pavo-IM) (Creator of original Repository / Code contributor / README.md maintainer)
 - [@osx86-ijb](https://www.github.com/osx86-ijb) (Creator of modern README.md / Code contributor / README.md maintainer)
 
-## LEGAL DISCLAIMER
-  
-##### THIS INFORMATION AND RESEARCH ARE PROVIDED SOLELY FOR EXPERIMENTAL AND EDUCATIONAL PURPOSES. NOTHING HEREIN IS INTENDED TO ENCOURAGE OR PROMOTE THE CIRCUMVENTION OF COPYRIGHTS, LICENSES, OR ANY OTHER RIGHTS BELONGING TO APPLE INC. OR ANY OTHER CORPORATE ENTITY OR PRIVATE PARTY. ALL MATERIALS PRESENTED WITHIN THIS HACKINABOX GITHUB REPOSITORY ARE OFFERED STRICTLY AS EDUCATIONAL RESOURCES AND PROOF OF CONCEPT.
+### LEGAL DISCLAIMER  
 
-BY ACCESSING OR UTILIZING ANY INFORMATION FROM THIS HACKINABOX GITHUB REPOSITORY, YOU ACKNOWLEDGE THAT:
-	•	THIS PROJECT DOES NOT DISTRIBUTE, MODIFY, OR HOST ANY APPLE SOFTWARE.
-	•	THE CREATORS AND MAINTAINERS OF THIS PROJECT DO NOT OWN OR CLAIM OWNERSHIP OF ANY APPLE SOFTWARE REFERENCED OR DOWNLOADED.
-	•	THIS PROJECT IS INTENDED FOR EDUCATIONAL AND PERSONAL USE ONLY.
-	•	NO WARRANTIES OR GUARANTEES ARE PROVIDED; YOU PROCEED ENTIRELY AT YOUR OWN RISK.
-	•	APPLE, macOS, AND RELATED MARKS ARE TRADEMARKS OF APPLE INC., REGISTERED IN THE U.S. AND OTHER COUNTRIES.
+This information and research are provided solely for **experimental and educational purposes**. Nothing herein is intended to encourage or promote the circumvention of copyrights, licenses, or any other rights belonging to Apple Inc. or any other corporate entity or private party. All materials presented within this Hackinabox GitHub repository are offered strictly as educational resources and proof of concept.  
 
-THE CREATOR(S) AND MAINTAINER(S) OF THIS HACKINABOX GITHUB REPOSITORY EXPRESSLY DISCLAIM ANY AND ALL LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES, LOSSES, OR INJURIES ARISING FROM THE USE, MISUSE, OR APPLICATION OF ANY INFORMATION PRESENTED HERE.
+By accessing or utilizing any information from this Hackinabox GitHub repository, you acknowledge that:  
 
-THE USER ASSUMES FULL RESPONSIBILITY AND RISK FOR ANY ACTIONS TAKEN OR DECISIONS MADE BASED ON THIS INFORMATION. BY CHOOSING TO UTILIZE ANYTHING CONTAINED IN THIS HACKINABOX GITHUB REPOSITORY, THE USER AGREES TO INDEMNIFY, DEFEND, AND HOLD HARMLESS THE CREATORS FROM ANY CLAIMS, DEMANDS, OR DAMAGES ARISING OUT OF OR RELATING TO SUCH USE.
+- This project does **not** distribute, modify, or host any Apple software.  
+- The creators and maintainers of this project do **not** own or claim ownership of any Apple software referenced or downloaded.  
+- This project is intended for **educational and personal use only**.  
+- **No warranties or guarantees** are provided; you proceed entirely at your own risk.  
+- **Apple, macOS, and related marks are trademarks of Apple Inc.**, registered in the U.S. and other countries.  
 
-NO WARRANTY IS MADE REGARDING THE SUITABILITY, RELIABILITY, OR ACCURACY OF THE INFORMATION CONTAINED IN THIS HACKINABOX GITHUB REPOSITORY FOR ANY PARTICULAR PURPOSE. THE USER ACKNOWLEDGES AND AGREES THAT THEY PROCEED ENTIRELY AT THEIR OWN RISK.
+The creator(s) and maintainer(s) of this Hackinabox GitHub repository expressly disclaim any and all liability for any direct, indirect, incidental, special, consequential, or other damages, losses, or injuries arising from the use, misuse, or application of any information presented here.  
+
+The user assumes full responsibility and risk for any actions taken or decisions made based on this information. By choosing to utilize anything contained in this Hackinabox GitHub repository, the user agrees to **indemnify, defend, and hold harmless** the creators from any claims, demands, or damages arising out of or relating to such use.  
+
+No warranty is made regarding the suitability, reliability, or accuracy of the information contained in this Hackinabox GitHub repository for any particular purpose. The user acknowledges and agrees that they proceed entirely at their own risk.  
   
 ### This guide is for the computer user who would like to run macOS 12 Monterey (or newer) as a VM from within Unraid Server OS.
   
